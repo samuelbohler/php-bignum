@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "ext-gmp": "*",
+        "ext-bcmath": "*",
+        "phpunit/phpunit": "~4.3"
+    }
+}
